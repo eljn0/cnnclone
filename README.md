@@ -1,2 +1,1 @@
-#CNN clone website
--Single page cnn clone website coded by me 2017.
+Single page clone website coded by me 2017.
